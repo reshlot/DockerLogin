@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankLP", "DockerLogin\BankLP.csproj", "{36E45CE6-FCBF-46DC-A7B2-BD3B42D20368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E45CE6-FCBF-46DC-A7B2-BD3B42D20368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E45CE6-FCBF-46DC-A7B2-BD3B42D20368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E45CE6-FCBF-46DC-A7B2-BD3B42D20368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E45CE6-FCBF-46DC-A7B2-BD3B42D20368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A08A1A9-EBDA-4B46-80B8-69A8054D82C4}
+	EndGlobalSection
+EndGlobal
